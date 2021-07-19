@@ -1,0 +1,4 @@
+아나콘다 셋팅
+ -> conda create -n datascience python=3.8 anaconda (아나콘다 써줘야 필수 다운)
+아나콘다 들어가기 
+ -> conda activate datascience
